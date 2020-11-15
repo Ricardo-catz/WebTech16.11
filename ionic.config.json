@@ -1,0 +1,7 @@
+{
+  "name": "ricschaefer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
